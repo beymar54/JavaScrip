@@ -1,0 +1,22 @@
+[
+  {
+    "Nombre": "JOSE",
+    "edad": 29,
+    "Identidad secreta": "PEPE",
+    "Poderes": [
+      "Resistencia radiacion",
+      "Golpes inmune",
+      "Ojos Laser"
+    ]
+  },
+  {
+    "Nombre": "LUIS",
+    "edad": 30,
+    "Identidad secreta": "LUCHO",
+    "Poderes": [
+      "Respirar bajo el agua",
+      "Caminar sobre agua",
+      "Ojos de pez"
+    ]
+  }
+]
